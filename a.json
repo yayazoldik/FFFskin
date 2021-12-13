@@ -2,10 +2,10 @@
   "config" : {
     "admob" : {
       "admob_unit_id" : "",
-      "admob_banner_id" : "ca-app-pub-3940256099942544/6300978111",
-      "admob_interstitial_id" : "ca-app-pub-3940256099942544/1033173712",
-      "admob_native_id" : "ca-app-pub-3940256099942544/2247696110",
-      "admob_rewarded_id" : "ca-app-pub-3940256099942544/5224354917"
+      "admob_banner_id" : " ",
+      "admob_interstitial_id" : " ",
+      "admob_native_id" : " ",
+      "admob_rewarded_id" : " "
     },
     
     "max" : {
@@ -93,35 +93,35 @@
   "tips" : [
       {
       "id" : 0,
-      "imageURL" : "http://youuffo.com/data/photo/tips",
+      "imageURL" : " http://youuffo.com/data/photo/tips",
       "state" : "free",
       "title" : "Zeta Play :",
       "written" : "(football). كلمة كر القدم فوتبول قد طُبقت على كرة القدم راجبي، كرة القدم الأميركية، كرة القدم على طريقة القواعد الأسترالية، كرة القدم المتعلقة بغالي، كرة القدم الكندية، والكثير من أنواع كرة القدي ال"
     },
     {
       "id" : 1,
-      "imageURL" : "http://youuffo.com/data/photo/tips",
+      "imageURL" : " http://youuffo.com/data/photo/tips",
       "state" : "free",
       "title" : "Zeta Play II",
       "written" : ""
     },
     {
       "id" : 2,
-      "imageURL" : "http://youuffo.com/data/photo/tips",
+      "imageURL" : " http://youuffo.com/data/photo/tips",
       "state" : "free",
       "title" : "أهم المحطات في تاريخ كرة القدم",
       "written" : " "
     },
     {
       "id" : 3,
-      "imageURL" : "http://youuffo.com/data/photo/tips",
+      "imageURL" : " http://youuffo.com/data/photo/tips",
       "state" : "free",
       "title" : "Play anytime you want with any one you want",
       "written" : " "
     },
     {
       "id" : 4,
-      "imageURL" : "http://youuffo.com/data/photo/tips",
+      "imageURL" : " http://youuffo.com/data/photo/tips",
       "state" : "vip",
       "title" : "Step5:",
       "written" : "Make sure you've downloaded the resources in the game's download center, then download and open App. Click the button above to start ."
